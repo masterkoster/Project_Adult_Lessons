@@ -2,7 +2,7 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="95949266-78cd-41c3-90ca-e237c3c1c554" name="Hostinger" url="http://149.100.151.205">
+      <webServer id="95949266-78cd-41c3-90ca-e237c3c1c554" name="Hostinger" url="https://koster-im.preview-domain.com/">
         <fileTransfer host="149.100.151.205" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
